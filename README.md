@@ -29,9 +29,11 @@ Analysis of Superstore sales data to identify KPIs, best-selling products, peak 
 
 ## Contact
 Samir Mahamad Atnur  
-Email: <your_email_here>  
-Phone: <your_phone_here>
-"""
-with open("README.md","w",encoding="utf-8") as f:
-    f.write(readme)
-print("README.md created at:", __import__("os").path.abspath("README.md"))
+Email: samiratnur0711@gmail.com
+Phone: 9579595480
+
+## ▶️ How to Run
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/Samiratnur/sales-performance-analysis.git
+
